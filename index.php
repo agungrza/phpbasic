@@ -14,6 +14,7 @@
     <link href="https://www.php.net/favicon.ico?v=2" rel="icon">
 </head>
 <body>
+    <a href="create.php">Tambah Data Mahasiswa</a>
     <table border="1" cellpadding="3" cellspacing="0">
         <tr>
             <th>No.</th>
